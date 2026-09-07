@@ -19,5 +19,7 @@ public class VariabelDemo {
             double pecahan = 9.8;
             int hasilCasting = (int) pecahan; // narrowing eksplisit
             System.out.println("Narrowing: " + hasilCasting);
+
+
             }
 }
