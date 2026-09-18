@@ -1,10 +1,11 @@
 public class IfDemo {
  public static void main(String[] args) {
-         int nilai = 80;
+         int nilai = 60;
 
          if (nilai >= 75) {
              System.out.println("Anda LULUS");
-
+             } else {
+             System.out.println("Anda TIDAK LULUS");
          }
     }
 }
