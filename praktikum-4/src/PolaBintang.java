@@ -8,5 +8,6 @@ public class PolaBintang {
             System.out.println(); // pindah baris (1 baris pola)
             }
         }
+
 }
 
